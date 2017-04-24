@@ -1,0 +1,13 @@
+ejemplo para subir a git
+
+paso a paso para clonar 
+crear un commit
+crear un push
+
+
+estas modificaciones seran de la rama victor
+para repasar como crear un pul riquets
+jajajajajaj :)
+
+
+el resto del contenido se guardara en master es solo una prueba.
